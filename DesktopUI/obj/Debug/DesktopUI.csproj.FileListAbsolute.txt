@@ -1,0 +1,14 @@
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\DesktopUI.exe.config
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.Board.resources
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.Properties.Resources.resources
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.csproj.GenerateResource.Cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\DesktopUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\DesktopUI.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\GameEngine.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\GameEngine.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\Handlers.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\bin\Debug\Handlers.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\DesktopUI\obj\Debug\DesktopUI.FormLevels.resources

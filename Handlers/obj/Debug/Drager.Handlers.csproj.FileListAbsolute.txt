@@ -1,0 +1,9 @@
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\obj\Debug\Drager.Handlers.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\obj\Debug\Handlers.Properties.Resources.resources
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\obj\Debug\Drager.Handlers.csproj.GenerateResource.Cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\obj\Debug\Handlers.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\obj\Debug\Handlers.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\bin\Debug\Handlers.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\bin\Debug\Handlers.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\bin\Debug\GameEngine.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Handlers\bin\Debug\GameEngine.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE SokobanLevels SYSTEM "SokobanLev.dtd">
+<SokobanLevels>
+  <Title>Levels 1-2</Title>
+  <Description>The levels from the Drager game</Description>
+  <LevelCollection MaxWidth="13" MaxHeight="11">
+    <Level Id="BW1" Width="9" Height="9">
+      <L>#####</L>
+      <L>#@  #</L>
+      <L># $$#=###</L>
+      <L># $ #=#.#</L>
+      <L>### ###.#</L>
+      <L> ##    .#</L>
+      <L> #   #  #</L>
+      <L> #   ####</L>
+      <L> #####</L>
+    </Level>
+    <Level Id="BW2" Width="10" Height="7">
+      <L> #######</L>
+      <L> #     ###</L>
+      <L>##$###   #</L>
+      <L># @ $  $ #</L>
+      <L># ..# $ ##</L>
+      <L>##..#   #</L>
+      <L> ########</L>
+    </Level>
+  </LevelCollection>
+</SokobanLevels>

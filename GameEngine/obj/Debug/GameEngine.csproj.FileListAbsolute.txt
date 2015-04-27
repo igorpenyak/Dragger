@@ -1,0 +1,5 @@
+c:\users\andriy\documents\visual studio 2013\Projects\GameEngine\GameEngine\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+c:\users\andriy\documents\visual studio 2013\Projects\GameEngine\GameEngine\bin\Debug\GameEngine.dll
+c:\users\andriy\documents\visual studio 2013\Projects\GameEngine\GameEngine\bin\Debug\GameEngine.pdb
+c:\users\andriy\documents\visual studio 2013\Projects\GameEngine\GameEngine\obj\Debug\GameEngine.dll
+c:\users\andriy\documents\visual studio 2013\Projects\GameEngine\GameEngine\obj\Debug\GameEngine.pdb

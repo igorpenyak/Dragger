@@ -1,0 +1,6 @@
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\obj\Debug\ConsoleUI.pdb

@@ -1,0 +1,12 @@
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\obj\Debug\Drager.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\GameEngine.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\Handlers.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\GameEngine.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\Handlers.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\DesktopUI.exe
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\ConsoleUI\bin\Debug\DesktopUI.pdb

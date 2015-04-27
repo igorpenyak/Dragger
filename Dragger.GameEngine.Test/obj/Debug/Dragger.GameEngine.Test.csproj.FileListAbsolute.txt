@@ -1,0 +1,7 @@
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\bin\Debug\Dragger.GameEngine.Test.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\bin\Debug\Dragger.GameEngine.Test.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\bin\Debug\GameEngine.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\bin\Debug\GameEngine.pdb
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\obj\Debug\Dragger.GameEngine.Test.csprojResolveAssemblyReference.cache
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\obj\Debug\Dragger.GameEngine.Test.dll
+C:\Users\Andriy\Documents\Visual Studio 2013\Projects\GameEngine\Dragger.GameEngine.Test\obj\Debug\Dragger.GameEngine.Test.pdb
