@@ -87,6 +87,8 @@ namespace ConsoleUI
 
         private static void StartLevel(bool redraw)
         {
+            // Review remark from IP:
+            // повний шлях до супутніх файлів варто зберігати в додаткових XML-файлах конфігурації
             string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\levels\boxworld.xml";
 
             levelSet = new LevelSet();            

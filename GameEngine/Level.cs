@@ -52,6 +52,9 @@ namespace GameEngine
         {
             get { return _levelSetName; }
         }
+
+        // Review remark from IP:
+        // в таких випадках слід віддавати перевагу авто-проперті
         public bool IsUndoable
         {
             get { return _isUndoable; }

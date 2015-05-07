@@ -18,6 +18,8 @@ namespace Dragger.GameEngine.Test
         [TestMethod]
         public void Test_LevelConstructor()
         {
+            // Review remark from IP:
+            // проситься використання конфігураційних файлів
             string path = Path.GetDirectoryName(Path.GetDirectoryName(TestContext.TestDir)) + @"\Dragger.GameEngine.Test\Resources\boxworld.xml";
 
             LevelSet levelSet = new LevelSet();

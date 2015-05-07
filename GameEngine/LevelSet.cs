@@ -58,6 +58,8 @@ namespace GameEngine
         #endregion
 
         #region Constructors
+        // Review remark from IP:
+        // імена формальних параметрів ф-ції слабо корелюють з загальноприйнятим підходом ...
         public LevelSet(string aTitle, string aDescription, int aNrOfLevels, string aFilename)
         {
             _title = aTitle;
@@ -87,6 +89,8 @@ namespace GameEngine
             _description = doc.SelectSingleNode("//Description").InnerText;
 
 
+            // Review remark from IP:
+            // змінна "levelCollection" схоже ніде не використовується ...
             XmlNode levelCollection = doc.SelectSingleNode("//LevelCollection");
             XmlNodeList levels = doc.SelectNodes("//Level");
             _nrOfLevelsInSet = levels.Count;
@@ -180,6 +184,8 @@ namespace GameEngine
                 levelHeight, nrOfGoals, levelNr, _title));
         }
 
+        // Review remark from IP:
+        // получається ArrayList з ArrayList-тів - надто складно для подальшої підтримки та супроводу
         public static ArrayList GetAllLevelSetInfos()
         {
             ArrayList levelSets = new ArrayList();
@@ -201,6 +207,9 @@ namespace GameEngine
                     XmlDocument doc = new XmlDocument();
                     doc.Load(filename);
 
+                    // Review remark from IP:
+                    // деякі стандартні дії - наприклад, роботу з XML-джерелами, з метою
+                    // якіснішого перевикористання варто інкапсулювати в окрему ф-цію ...
                     string title = doc.SelectSingleNode("//Title").InnerText;
                     string description =
                         doc.SelectSingleNode("//Description").InnerText;

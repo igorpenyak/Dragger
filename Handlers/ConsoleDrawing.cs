@@ -8,12 +8,21 @@ using System.Threading.Tasks;
 
 namespace Handlers
 {
+    // Review remark from IP:
+    // в силу спільності сигнатур методів обох класів, можна запропонувати
+    // виокремити окремий інтерфейс для опису заголовків методів, і для конкретної відмальовки в-вати вже конкретну реалізацію
     public class ConsoleDrawing
     {
         // Console controls to display information on the screen
         #region Private fields
+
+        // Review remark from IP:
+        // до іменування приватних полів класу існують чітко визначені домовленості !
         private Level level;
         private string item;
+
+        // Review remark from IP:
+        // імена приватних змінних не повинні починатись з великої літери
         private static string[,] Map;
         #endregion
 
@@ -52,6 +61,11 @@ namespace Handlers
         }
         public string[,] DrawChanges()
         {
+
+            // Review remark from IP:
+            // коментарі потрібно видаляти на фазі проекту, що безпосередньо передує етапу рев'ю            
+            
+            
             //TODO: забрати
             string image1 = GetLevelImage(level.Item1.ItemType, level.SokoDirection);
             //g.DrawImage(image1, Level.ItemSize + level.Item1.XPos * Level.ItemSize,
@@ -77,6 +91,8 @@ namespace Handlers
         }
         public string GetLevelImage(ItemType itemType, MoveDirection direction)
         {
+            // Review remark from IP:
+            // можливо, варто було б ввести певний меппінг між значеннями енуму "ItemType" та  р-том "item" ...
             if (itemType == ItemType.Wall)
             {
                 item = "#";
@@ -148,6 +164,8 @@ namespace Handlers
             {
                 for (int j = 0; j < map.GetLength(1); j++)
                 {
+                    // Review remark from IP:
+                    // а чому б не просто Console.Write (map[i, j]) ???
                     if (map[i, j] == "#")
                     {
                         Console.Write("#");
